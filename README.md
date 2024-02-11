@@ -1,0 +1,1 @@
+CI [![Build status](https://ci.appveyor.com/api/projects/status/vlty02n3s19ko3nw?svg=true)](https://ci.appveyor.com/project/ElzaRadikovna/postman-myhw)
